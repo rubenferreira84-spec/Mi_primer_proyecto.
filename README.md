@@ -20,3 +20,8 @@ The script crawls the "Fake Python Jobs" website to extract:
 📍 Location.
 
 Tools: Python 3.12, BeautifulSoup4, Requests.
+
+
+pip install requests beautifulsoup4
+
+python main.py
