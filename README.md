@@ -22,6 +22,8 @@ The script crawls the "Fake Python Jobs" website to extract:
 Tools: Python 3.12, BeautifulSoup4, Requests.
 
 
+https://roadmap.sh/projects/job-listings-scraper
+
 pip install requests beautifulsoup4
 
 python main.py
